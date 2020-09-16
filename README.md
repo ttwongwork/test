@@ -146,6 +146,8 @@ Here's a "line block" (note how whitespace is honored):
 | Line tree
 
 and images can be specified like so:
+
+
 ![gray-and-white-cat-asleep-with-whiskers-out](https://user-images.githubusercontent.com/71405968/93397513-9c23d700-f82e-11ea-8ecd-7dab041e877e.jpg)
 
 Inline math equation: $\omega = d\phi / dt$. Display

@@ -169,8 +169,12 @@ $$I = \int \rho R^{2} dV$$
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 
-Local reference? PROCESS OK
+Local reference as image reference? PROCESS OK
 ![gray-and-white-cat-asleep-with-whiskers-out.jpg](gray-and-white-cat-asleep-with-whiskers-out.jpg)
+
+Local reference as link reference
+[gray-and-white-cat-asleep-with-whiskers-out.jpg](gray-and-white-cat-asleep-with-whiskers-out.jpg)
+
 
 From third party link- DOESN'T PROCESS
 ![https://blog.entirelypets.com/wp-content/uploads/2017/04/14718789_ML.jpg](https://blog.entirelypets.com/wp-content/uploads/2017/04/14718789_ML.jpg)

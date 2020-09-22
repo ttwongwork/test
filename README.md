@@ -147,12 +147,18 @@ Here's a "line block" (note how whitespace is honored):
 
 and images can be specified like so:
 
-
+DOESN'T PROCESS
 ![gray-and-white-cat-asleep-with-whiskers-out](https://user-images.githubusercontent.com/71405968/93397513-9c23d700-f82e-11ea-8ecd-7dab041e877e.jpg)
 
+DOESN'T PROCESS
 ![](https://github.com/ttwongwork/test/blob/master/gray-and-white-cat-asleep-with-whiskers-out.jpg)
 
+DOESN'T PROCESS
 ![](https://github.com/ttwongwork/test/blob/master/cat-sleeping-e1562875994725.jpg)
+
+ATTEMPT
+![cat-sleeping-e1562875994725.jpg](https://github.com/ttwongwork/test/blob/master/cat-sleeping-e1562875994725.jpg)
+
 
 
 Inline math equation: $\omega = d\phi / dt$. Display
@@ -163,8 +169,8 @@ $$I = \int \rho R^{2} dV$$
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 
-Local reference? 
+Local reference? PROCESS OK
 ![gray-and-white-cat-asleep-with-whiskers-out.jpg](gray-and-white-cat-asleep-with-whiskers-out.jpg)
 
-From third party link
+From third party link- DOESN'T PROCESS
 ![https://blog.entirelypets.com/wp-content/uploads/2017/04/14718789_ML.jpg](https://blog.entirelypets.com/wp-content/uploads/2017/04/14718789_ML.jpg)

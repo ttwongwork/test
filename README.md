@@ -172,7 +172,7 @@ which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 Local reference as image reference? PROCESS OK
 ![gray-and-white-cat-asleep-with-whiskers-out.jpg](gray-and-white-cat-asleep-with-whiskers-out.jpg)
 
-Local reference as link reference
+Local reference as link. 
 [gray-and-white-cat-asleep-with-whiskers-out.jpg](gray-and-white-cat-asleep-with-whiskers-out.jpg)
 
 

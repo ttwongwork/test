@@ -173,7 +173,7 @@ Local reference as image reference? PROCESS OK
 ![gray-and-white-cat-asleep-with-whiskers-out.jpg](gray-and-white-cat-asleep-with-whiskers-out.jpg)
 
 Local reference as link. 
-[gray-and-white-cat-asleep-with-whiskers-out.jpg](gray-and-white-cat-asleep-with-whiskers-out.jpg)
+[cat-sleeping-e1562875994725.jpg](cat-sleeping-e1562875994725.jpg)
 
 
 From third party link- DOESN'T PROCESS

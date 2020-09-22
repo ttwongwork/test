@@ -161,3 +161,5 @@ which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 Local reference? 
 ![gray-and-white-cat-asleep-with-whiskers-out.jpg](gray-and-white-cat-asleep-with-whiskers-out.jpg)
 
+From third party link
+![https://blog.entirelypets.com/wp-content/uploads/2017/04/14718789_ML.jpg](https://blog.entirelypets.com/wp-content/uploads/2017/04/14718789_ML.jpg)

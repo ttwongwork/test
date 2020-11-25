@@ -3,6 +3,8 @@ An h1 header
 
 Paragraphs are separated by a blank line.
 
+![what a cutie.jpg](what%20a%20cutie.jpg)
+
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
 
@@ -182,3 +184,6 @@ From third party link- DOESN'T PROCESS
 Local reference as image reference?
 
 ![what a cutie](https://github.com/ttwongwork/test/blob/master/what%20a%20cutie.jpg?raw=true)
+
+
+

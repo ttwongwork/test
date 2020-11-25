@@ -178,3 +178,7 @@ Local reference as link.
 
 From third party link- DOESN'T PROCESS
 ![https://blog.entirelypets.com/wp-content/uploads/2017/04/14718789_ML.jpg](https://blog.entirelypets.com/wp-content/uploads/2017/04/14718789_ML.jpg)
+
+Local reference as image reference?
+
+![what a cutie](https://github.com/ttwongwork/test/blob/master/what%20a%20cutie.jpg?raw=true)

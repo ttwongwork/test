@@ -6,6 +6,8 @@ Learn:
 
 [!VIDEO VideoTest.mp4]
 
+<iframe src>/[!VIDEO path/to/VideoTest.mp4]
+
 [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWeokQ]
  
  

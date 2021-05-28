@@ -6,22 +6,18 @@ Learn:
 
 ![VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWeokQ]
 
-
-
-
 <iframe src>/[!VIDEO path/to/https://www.microsoft.com/en-us/videoplayer/embed/RWeokQ]
-
- 
-
-
-ILT:
-
-<iframe src="https://www.microsoft.com/videoplayer/embed/RE4ChU3" width="640" height="320" allowFullScreen="true" frameBorder="0"></iframe>
 
 
 
 
 Paragraphs are separated by a blank line.
+ 
+ 
+ ILT:
+
+<iframe src="https://www.microsoft.com/videoplayer/embed/RE4ChU3" width="640" height="320" allowFullScreen="true" frameBorder="0"></iframe>
+ 
 
 ![what a cutie.jpg](what%20a%20cutie.jpg)
 

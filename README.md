@@ -6,7 +6,6 @@ Learn:
 
 [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWeokQ]
  
- <iframe src>/[!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWeokQ]
  
  ILT:
 

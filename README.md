@@ -4,15 +4,9 @@ An h1 header
 Learn:
 
 
-![VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWeokQ]
-
-<iframe src>/[!VIDEO path/to/https://www.microsoft.com/en-us/videoplayer/embed/RWeokQ]
-
-
-
-
-Paragraphs are separated by a blank line.
+[!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWeokQ]
  
+ <iframe src>/[!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWeokQ]
  
  ILT:
 

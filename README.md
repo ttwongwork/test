@@ -1,6 +1,14 @@
 An h1 header
 ============
 
+Learn:
+[!VIDEO https://www.microsoft.com/url_to_video]
+
+
+ILT:
+<iframe src="https://www.microsoft.com/videoplayer/…" width="640" height="320" allowFullScreen="true" frameBorder="0"></iframe>
+
+
 Paragraphs are separated by a blank line.
 
 ![what a cutie.jpg](what%20a%20cutie.jpg)

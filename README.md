@@ -28,6 +28,16 @@ Learn:
  
 
 <iframe src>/[!VIDEO https://github.com/ttwongwork/test/blob/3bb96b58ac405974b5cb9677fac98dc356a30c90/VideoTest.mp4]</iframe>
+
+
+
+<iframe src>/[!VIDEO path/to/https://github.com/ttwongwork/test/blob/3bb96b58ac405974b5cb9677fac98dc356a30c90/VideoTest.mp4]</iframe>
+
+
+
+<iframe src>/[!VIDEO path/to/https://github.com/ttwongwork/test/blob/3bb96b58ac405974b5cb9677fac98dc356a30c90/VideoTest.mp4]</iframe>
+
+
  
 
 [!VIDEO https://github.com/ttwongwork/test/blob/3bb96b58ac405974b5cb9677fac98dc356a30c90/VideoTest.mp4]

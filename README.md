@@ -7,7 +7,7 @@ Learn:
 [!VIDEO VideoTest.mp4]
 
 
-<iframe src>/[!VIDEO path/to/VideoTest.mp4]
+<iframe src>/[!VIDEO path/to/VideoTest.mp4]</iframe>
  
 
 [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWeokQ]
@@ -24,10 +24,10 @@ Learn:
  
 
 
-<iframe src>/[!VIDEO https://github.com/ttwongwork/test/blob/6bc704de67706dcd3296812503766b18b3404a75/VideoTest.mp4]
+<iframe src>/[!VIDEO https://github.com/ttwongwork/test/blob/6bc704de67706dcd3296812503766b18b3404a75/VideoTest.mp4]</iframe>
  
 
-<iframe src>/[!VIDEO https://github.com/ttwongwork/test/blob/3bb96b58ac405974b5cb9677fac98dc356a30c90/VideoTest.mp4]
+<iframe src>/[!VIDEO https://github.com/ttwongwork/test/blob/3bb96b58ac405974b5cb9677fac98dc356a30c90/VideoTest.mp4]</iframe>
  
 
 [!VIDEO https://github.com/ttwongwork/test/blob/3bb96b58ac405974b5cb9677fac98dc356a30c90/VideoTest.mp4]

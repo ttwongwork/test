@@ -10,6 +10,12 @@ Learn:
 
 [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWeokQ]
  
+
+[!VIDEO VideoTest.mp4]
+
+
+[!VIDEO https://github.com/ttwongwork/test/blob/6bc704de67706dcd3296812503766b18b3404a75/VideoTest.mp4]
+ 
  
  ILT:
 

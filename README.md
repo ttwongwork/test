@@ -1,7 +1,17 @@
 An h1 header
 ============
 
+Let the combos begin again: 
+
+<iframe src=“/Videotest.mp4”></iframe>
+
+
+[!VIDEO /VideoTest.mp4]
+
+
 Learn:
+
+[!VIDEO test/blob/master/VideoTest.mp4VideoTest.mp4]
 
 
 [!VIDEO VideoTest.mp4]

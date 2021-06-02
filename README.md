@@ -11,7 +11,7 @@ Let the combos begin again:
 
 Learn:
 
-[!VIDEO test/blob/master/VideoTest.mp4VideoTest.mp4]
+[!VIDEO test/blob/master/VideoTest.mp4]
 
 
 [!VIDEO VideoTest.mp4]

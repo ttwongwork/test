@@ -1,63 +1,7 @@
 An h1 header
 ============
 
-Let the combos begin again: 
 
-<iframe src=“/VideoTest.mp4”></iframe>
-
-
-[!VIDEO /VideoTest.mp4]
-
-
-Learn:
-
-[!VIDEO test/blob/master/VideoTest.mp4]
-
-
-[!VIDEO VideoTest.mp4]
-
-
-<iframe src>/[!VIDEO path/to/VideoTest.mp4]</iframe>
- 
-
-[!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWeokQ]
- 
- 
-
-[!VIDEO VideoTest.mp4]
- 
-
- 
-
-
-[!VIDEO https://github.com/ttwongwork/test/blob/6bc704de67706dcd3296812503766b18b3404a75/VideoTest.mp4]
- 
-
-
-<iframe src>/[!VIDEO https://github.com/ttwongwork/test/blob/6bc704de67706dcd3296812503766b18b3404a75/VideoTest.mp4]</iframe>
- 
-
-<iframe src>/[!VIDEO https://github.com/ttwongwork/test/blob/3bb96b58ac405974b5cb9677fac98dc356a30c90/VideoTest.mp4]</iframe>
-
-
-
-<iframe src>/[!VIDEO path/to/https://github.com/ttwongwork/test/blob/3bb96b58ac405974b5cb9677fac98dc356a30c90/VideoTest.mp4]</iframe>
-
-
-
-<iframe src>/[!VIDEO path/to/https://github.com/ttwongwork/test/blob/3bb96b58ac405974b5cb9677fac98dc356a30c90/VideoTest.mp4]</iframe>
-
-
- 
-
-[!VIDEO https://github.com/ttwongwork/test/blob/3bb96b58ac405974b5cb9677fac98dc356a30c90/VideoTest.mp4]
- 
- 
- 
- 
- ILT:
-
-<iframe src="https://www.microsoft.com/videoplayer/embed/RE4ChU3" width="640" height="320" allowFullScreen="true" frameBorder="0"></iframe>
  
 
 ![what a cutie.jpg](what%20a%20cutie.jpg)
